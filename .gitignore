@@ -1,0 +1,7 @@
+# 개인 설정·수집 기록은 올리지 않는다
+skills/카톡수집/rooms.json
+skills/카톡수집/state.json
+**/카톡_*.md
+*.txt
+__pycache__/
+.DS_Store
