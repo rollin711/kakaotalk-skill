@@ -139,7 +139,7 @@ kakaocli는 Mac 전용이라 Windows에서는 자동 읽기가 되지 않습니�
 3. Claude Code에게 `내보낸 카톡 파일 정리해줘: <파일 경로>`라고 말합니다.
 4. 민감번호를 가린 사본이 `카톡기록` 폴더에 생깁니다. 원본 txt는 확인 후 직접 지웁니다.
 
-> 이 방식은 Python이 필요합니다. 회사 보안 설정으로 Python 실행이 막혀 있으면 IT 담당자에게 허용을 요청해 주세요.
+> 이 방식은 Python이 필요합니다. 설치되어 있지 않으면 Claude Code에게 「Python 설치해 줘」라고 요청하거나 [python.org](https://www.python.org/downloads/)에서 설치합니다. 회사 보안 설정으로 Python 실행이 막혀 있으면 IT 담당자에게 허용을 요청해 주세요.
 
 ---
 

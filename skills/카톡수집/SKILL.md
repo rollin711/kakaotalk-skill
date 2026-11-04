@@ -44,5 +44,5 @@ python3 -I ~/.claude/skills/카톡수집/scripts/kakao_collect.py mask-file <내
 
 ## Windows 등 kakaocli를 쓸 수 없는 경우
 1. 사용자에게 카카오톡 PC 앱에서 해당 방 → 오른쪽 위 메뉴(≡) → 「대화 내용」 → 「대화 내보내기」로 txt를 저장하게 한다(앱 버전에 따라 메뉴 위치가 다를 수 있다).
-2. `mask-file`로 가림 처리한 사본을 만든다. 원본 txt는 열지 않고, 확인 후 사용자가 직접 지우도록 안내한다.
+2. `mask-file`로 가림 처리한 사본을 만든다. Windows에서는 `python3` 대신 `python`(없으면 `py`)으로 실행하고, 둘 다 없으면 Python 설치가 필요하다고 안내한다. 원본 txt는 열지 않고, 확인 후 사용자가 직접 지우도록 안내한다.
 3. 사본을 읽어 위 「수집 후 처리 순서」 2~4를 따른다.
